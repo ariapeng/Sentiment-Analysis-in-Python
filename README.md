@@ -8,5 +8,5 @@ You will process the data step by step as described below:
 3) Conclude correlation and output reports, the reports are saved in the `(3) output` folder
 4) Can you give suggestions on controlling youth emotionality and youth violence rate as well?
 
-You can also refer to my stepwise-detailed notes named `peng's notes`. Please comment if you have any questions or suggestions.  
+You can also refer to my stepwise-detailed notes named `Peng_notes`. Please comment if you have any questions or suggestions.  
 Thank you.

@@ -1,5 +1,6 @@
-/*SECTION_1   Yahui_Peng   @ifg583*/
+/*SECTION_1   Yahui_Peng   */
 
+/*set directory*/
 %let mydir = \\Client\C$\SAS\Final Project; 
 %let in = &mydir\(1) input;
 %let out = &mydir\(3) output;

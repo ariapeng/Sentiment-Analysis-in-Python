@@ -1,7 +1,4 @@
-# US-Youth-Violence-Data-Analysis-in-SAS
-Config files for my GitHub profile.  
-  
-  
+# US-Youth-Violence-Data-Analysis-in-SAS  
   
 You will process the data step by step as described below:
 1) Clean the data in `(1) input` folder using code in `(2) code`. You may need to change the directory to your own      
